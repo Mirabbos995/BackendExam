@@ -36,3 +36,21 @@ def discount():
 discount()
 
 
+# d = [2, 4, 6, 7, 8, 11]
+# dis = 3/4
+#
+# def discount():
+#     for a in d:
+#         h = a * dis
+#         print(f"50% discount of {d} is {h}")
+# discount()
+
+
+# d = [2, 4, 6, 7, 8, 11]
+# dis = 9/20
+#
+# def discount():
+#     for a in d:
+#         h = a * dis
+#         print(f"50% discount of {d} is {h}")
+# discount()
